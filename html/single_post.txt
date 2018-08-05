@@ -1,0 +1,8 @@
+<style>
+body {font-family: Consolas;
+	background-color: powderblue;}
+h1   {color: blue;}
+</style>
+<a href="/page/$id"><h1>$title</h1></a><br />
+$content<br />
+Autor: $author
